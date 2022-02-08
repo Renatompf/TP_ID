@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Jogadores xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ID_XSDFile.xsd">
+     <Jogador estadoAtual="No ativo">
+          <Nome>Cristiano Ronaldo dos Santos Aveiro</Nome>
+          <Alcunha>CR7</Alcunha>
+          <DataNascimento>05/02/1985</DataNascimento>
+          <Idade>36</Idade>
+          <Nacionalidade>Portugal</Nacionalidade>
+          <Altura>1.87</Altura>
+          <Peso>80.0</Peso>
+          <PePreferencial>direito</PePreferencial>
+          <Posicao>Avançado - Ponta de Lança</Posicao>
+          <Selecao>Portugal</Selecao>
+          <NrCamisola>7</NrCamisola>
+          <ValorContrato>5.0E7</ValorContrato>
+          <Empresario>Gestifute</Empresario>
+          <Foto>https://img.a.transfermarkt.technology/portrait/big/8198-1568120625.jpg?lm=1</Foto>
+          <Premios>
+               <Premio>Melhor jogador do mundo</Premio>
+               <Premio>Vencedor Ballon d'Or</Premio>
+               <Premio>O Futebolista do Ano da Europa</Premio>
+               <Premio>Melhor marcador</Premio>
+               <Premio>Jogador da época</Premio>
+          </Premios>
+          <Clubes>
+               <ClubeAtual>Juventus FC</ClubeAtual>
+               <ClubesAnteriores>
+                    <ClubeAnterior>Real Madrid</ClubeAnterior>
+                    <ClubeAnterior>Man Utd.</ClubeAnterior>
+                    <ClubeAnterior>Sporting CP</ClubeAnterior>
+                    <ClubeAnterior>Sporting Sub19</ClubeAnterior>
+                    <ClubeAnterior>Sporting Sub-17</ClubeAnterior>
+               </ClubesAnteriores>
+          </Clubes>
+     </Jogador>
+     <Jogador estadoAtual="Falecido - 2020-11-25">
+          <Nome>Diego Armando Maradona</Nome>
+          <Alcunha>Dieguito</Alcunha>
+          <DataNascimento>30/10/1960</DataNascimento>
+          <Idade>60</Idade>
+          <Nacionalidade>Argentina</Nacionalidade>
+          <Altura>1.67</Altura>
+          <Peso>60.0</Peso>
+          <PePreferencial>esquerdo</PePreferencial>
+          <Posicao>Médio - Médio Ofensivo</Posicao>
+          <Selecao>Argentina</Selecao>
+          <Empresario>Este jogador não se encontra a ser representado por nenhum agente</Empresario>
+          <Foto>https://img.a.transfermarkt.technology/portrait/big/8024-1606322777.png?lm=1</Foto>
+          <Premios>
+               <Premio>Melhor marcador</Premio>
+               <Premio>Futebolista do ano</Premio>
+               <Premio>Campeão do Mundo</Premio>
+               <Premio>Vencedor da Taça de Espanha</Premio>
+               <Premio>Vencedor da Supertaça de Espanha</Premio>
+          </Premios>
+          <Clubes>
+               <ClubeAtual>Este jogador não se apresenta em nenhum clube</ClubeAtual>
+               <ClubesAnteriores>
+                    <ClubeAnterior>Newell's</ClubeAnterior>
+                    <ClubeAnterior>Sevilha FC</ClubeAnterior>
+                    <ClubeAnterior>Napoli</ClubeAnterior>
+                    <ClubeAnterior>FC Barcelona</ClubeAnterior>
+                    <ClubeAnterior>Argentinos Jrs.</ClubeAnterior>
+               </ClubesAnteriores>
+          </Clubes>
+     </Jogador>
+     <Jogador estadoAtual="No ativo">
+          <Nome>Bruno Miguel Borges Fernandes</Nome>
+          <Alcunha>Este jogador não tem nenhum nome pelo qual seja mais conhecido</Alcunha>
+          <DataNascimento>08/09/1994</DataNascimento>
+          <Idade>26</Idade>
+          <Nacionalidade>Portugal</Nacionalidade>
+          <Altura>1.79</Altura>
+          <Peso>65.0</Peso>
+          <PePreferencial>direito</PePreferencial>
+          <Posicao>Médio - Médio Ofensivo</Posicao>
+          <Selecao>Portugal</Selecao>
+          <NrCamisola>18</NrCamisola>
+          <ValorContrato>9.0E7</ValorContrato>
+          <Empresario>MRP.POSITIONUMBER</Empresario>
+          <Foto>https://img.a.transfermarkt.technology/portrait/big/240306-1580389882.jpg?lm=1</Foto>
+          <Premios>
+               <Premio>Melhor marcador</Premio>
+               <Premio>Jogador da época</Premio>
+               <Premio>Futebolista do ano</Premio>
+               <Premio>Vencedor da Taça de Portugal</Premio>
+               <Premio>Vencedor da Taça da Liga de Portugal</Premio>
+          </Premios>
+          <Clubes>
+               <ClubeAtual>Manchester United FC</ClubeAtual>
+               <ClubesAnteriores>
+                    <ClubeAnterior>Sporting CP</ClubeAnterior>
+                    <ClubeAnterior>UC Sampdoria</ClubeAnterior>
+                    <ClubeAnterior>Udinese Calcio</ClubeAnterior>
+                    <ClubeAnterior>UC Sampdoria</ClubeAnterior>
+                    <ClubeAnterior>Udinese Calcio</ClubeAnterior>
+               </ClubesAnteriores>
+          </Clubes>
+     </Jogador>
+     <Jogador estadoAtual="No ativo">
+          <Nome>Wilson Migueis Manafá Jancó</Nome>
+          <Alcunha>Manafá</Alcunha>
+          <DataNascimento>23/07/1994</DataNascimento>
+          <Idade>26</Idade>
+          <Nacionalidade>Portugal</Nacionalidade>
+          <Altura>1.77</Altura>
+          <Peso>73.0</Peso>
+          <PePreferencial>direito</PePreferencial>
+          <Posicao>Defesa - Lateral Direito</Posicao>
+          <Selecao>Este jogador não joga pela seleção</Selecao>
+          <NrCamisola>18</NrCamisola>
+          <ValorContrato>7000000.0</ValorContrato>
+          <Empresario>Wasserman</Empresario>
+          <Foto>https://img.a.transfermarkt.technology/portrait/big/257388-1606396350.png?lm=1</Foto>
+          <Premios>
+               <Premio>Campeão de Portugal</Premio>
+               <Premio>Vencedor da Taça de Portugal</Premio>
+               <Premio>Vencedor da Supertaça de Portugal</Premio>
+               <Premio>Campeão da Segunda Liga</Premio>
+          </Premios>
+          <Clubes>
+               <ClubeAtual>Futebol Clube do Porto</ClubeAtual>
+               <ClubesAnteriores>
+                    <ClubeAnterior>Portimonense</ClubeAnterior>
+                    <ClubeAnterior>Varzim</ClubeAnterior>
+                    <ClubeAnterior>Anadia FC</ClubeAnterior>
+                    <ClubeAnterior>Beira-Mar</ClubeAnterior>
+                    <ClubeAnterior>Sporting B</ClubeAnterior>
+               </ClubesAnteriores>
+          </Clubes>
+     </Jogador>
+     <Jogador estadoAtual="No ativo">
+          <Nome>Lionel Andrés Messi Cuccittini</Nome>
+          <Alcunha>Leo</Alcunha>
+          <DataNascimento>24/06/1987</DataNascimento>
+          <Idade>33</Idade>
+          <Nacionalidade>Argentina</Nacionalidade>
+          <Altura>1.7</Altura>
+          <Peso>66.0</Peso>
+          <PePreferencial>esquerdo</PePreferencial>
+          <Posicao>Avançado - Extremo Direito</Posicao>
+          <Selecao>Argentina</Selecao>
+          <NrCamisola>10</NrCamisola>
+          <ValorContrato>8.0E7</ValorContrato>
+          <Empresario>Familiar</Empresario>
+          <Foto>https://img.a.transfermarkt.technology/portrait/big/28003-1604164452.png?lm=1</Foto>
+          <Premios>
+               <Premio>Melhor jogador do mundo</Premio>
+               <Premio>Vencedor Ballon d'Or</Premio>
+               <Premio>O Futebolista do Ano da Europa</Premio>
+               <Premio>Melhor marcador</Premio>
+               <Premio>Jogador da época</Premio>
+          </Premios>
+          <Clubes>
+               <ClubeAtual>FC Barcelona</ClubeAtual>
+               <ClubesAnteriores>
+                    <ClubeAnterior>FC Barcelona B</ClubeAnterior>
+                    <ClubeAnterior>Barcelona C</ClubeAnterior>
+                    <ClubeAnterior>Barça U19</ClubeAnterior>
+                    <ClubeAnterior>Barça U16</ClubeAnterior>
+                    <ClubeAnterior>Barça Fútb.base</ClubeAnterior>
+               </ClubesAnteriores>
+          </Clubes>
+     </Jogador>
+     <Jogador estadoAtual="No ativo">
+          <Nome>Neymar da Silva Santos Júnior</Nome>
+          <Alcunha>Ney</Alcunha>
+          <DataNascimento>05/02/1992</DataNascimento>
+          <Idade>29</Idade>
+          <Nacionalidade>Brasil</Nacionalidade>
+          <Altura>1.75</Altura>
+          <Peso>65.0</Peso>
+          <PePreferencial>direito</PePreferencial>
+          <Posicao>Avançado - Extremo Esquerdo</Posicao>
+          <Selecao>Brasil</Selecao>
+          <NrCamisola>10</NrCamisola>
+          <ValorContrato>1.1E8</ValorContrato>
+          <Empresario>Familiar</Empresario>
+          <Foto>https://img.a.transfermarkt.technology/portrait/big/68290-1602849593.jpg?lm=1</Foto>
+          <Premios>
+               <Premio>Melhor marcador</Premio>
+               <Premio>Futebolista do ano</Premio>
+               <Premio>Vencedor da Champions-League</Premio>
+               <Premio>Campeão de Espanha</Premio>
+               <Premio>Vencedor da Taça de Espanha</Premio>
+          </Premios>
+          <Clubes>
+               <ClubeAtual>FC Paris Saint-Germain</ClubeAtual>
+               <ClubesAnteriores>
+                    <ClubeAnterior>FC Barcelona</ClubeAnterior>
+                    <ClubeAnterior>Santos FC</ClubeAnterior>
+               </ClubesAnteriores>
+          </Clubes>
+     </Jogador>
+     <Jogador estadoAtual="No ativo">
+          <Nome>Luis Miguel Afonso Fernandes</Nome>
+          <Alcunha>Pizzi</Alcunha>
+          <DataNascimento>06/10/1989</DataNascimento>
+          <Idade>31</Idade>
+          <Nacionalidade>Portugal</Nacionalidade>
+          <Altura>1.77</Altura>
+          <Peso>70.0</Peso>
+          <PePreferencial>direito</PePreferencial>
+          <Posicao>Médio - Médio Ofensivo</Posicao>
+          <Selecao>Portugal</Selecao>
+          <NrCamisola>21</NrCamisola>
+          <ValorContrato>1.2E7</ValorContrato>
+          <Empresario>Gestifute</Empresario>
+          <Foto>https://img.a.transfermarkt.technology/portrait/big/64339-1603795577.jpg?lm=1</Foto>
+          <Premios>
+               <Premio>Melhor marcador</Premio>
+               <Premio>Futebolista do ano</Premio>
+               <Premio>Campeão de Portugal</Premio>
+               <Premio>Vencedor da Taça de Portugal</Premio>
+               <Premio>Vencedor da Taça da Liga de Portugal</Premio>
+          </Premios>
+          <Clubes>
+               <ClubeAtual>Sport Lisboa e Benfica</ClubeAtual>
+               <ClubesAnteriores>
+                    <ClubeAnterior>RCD Espanyol</ClubeAnterior>
+                    <ClubeAnterior>SL Benfica</ClubeAnterior>
+                    <ClubeAnterior>Atlético Madrid</ClubeAnterior>
+                    <ClubeAnterior>Deportivo</ClubeAnterior>
+                    <ClubeAnterior>Atlético Madrid</ClubeAnterior>
+               </ClubesAnteriores>
+          </Clubes>
+     </Jogador>
+</Jogadores>

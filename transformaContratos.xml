@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Jogadores>
+     <Jogador ValorContrato="1.1E8€">Neymar da Silva Santos Júnior</Jogador>
+     <Jogador ValorContrato="9.0E7€">Bruno Miguel Borges Fernandes</Jogador>
+     <Jogador ValorContrato="8.0E7€">Lionel Andrés Messi Cuccittini</Jogador>
+     <Jogador ValorContrato="5.0E7€">Cristiano Ronaldo dos Santos Aveiro</Jogador>
+     <Jogador ValorContrato="1.2E7€">Luis Miguel Afonso Fernandes</Jogador>
+</Jogadores>

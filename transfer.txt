@@ -1,0 +1,856 @@
+<!DOCTYPE html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if IE 7]>
+<html class="ie7 oldie" lang="pt"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9" lang="pt"> <![endif]-->
+<!--[if gt IE 8]><!-->
+
+<html class="no-js" lang="pt">
+<!--<![endif]-->
+
+<head>
+    
+<script type="text/javascript">
+    !function () { var e = function () { var e, t = "__tcfapiLocator", a = [], n = window; for (; n;) { try { if (n.frames[t]) { e = n; break } } catch (e) { } if (n === window.top) break; n = n.parent } e || (!function e() { var a = n.document, r = !!n.frames[t]; if (!r) if (a.body) { var i = a.createElement("iframe"); i.style.cssText = "display:none", i.name = t, a.body.appendChild(i) } else setTimeout(e, 5); return !r }(), n.__tcfapi = function () { for (var e, t = arguments.length, n = new Array(t), r = 0; r < t; r++)n[r] = arguments[r]; if (!n.length) return a; if ("setGdprApplies" === n[0]) n.length > 3 && 2 === parseInt(n[1], 10) && "boolean" == typeof n[3] && (e = n[3], "function" == typeof n[2] && n[2]("set", !0)); else if ("ping" === n[0]) { var i = { gdprApplies: e, cmpLoaded: !1, cmpStatus: "stub" }; "function" == typeof n[2] && n[2](i) } else a.push(n) }, n.addEventListener("message", (function (e) { var t = "string" == typeof e.data, a = {}; try { a = t ? JSON.parse(e.data) : e.data } catch (e) { } var n = a.__tcfapiCall; n && window.__tcfapi(n.command, n.version, (function (a, r) { var i = { __tcfapiReturn: { returnValue: a, success: r, callId: n.callId } }; t && (i = JSON.stringify(i)), e.source.postMessage(i, "*") }), n.parameter) }), !1)) }; "undefined" != typeof module ? module.exports = e : e() }();
+</script>
+<script>
+window._sp_ = {
+    config: {"accountId":1254,"propertyId":7434,"baseEndpoint":"https://cdn.privacy-mgmt.com"}}
+</script>
+<script src="https://cdn.privacy-mgmt.com/wrapperMessagingWithoutDetection.js"></script>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="IE=edge">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="theme-color" content="#1a3151" />
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="shortcut icon" sizes="192x192" href="/android-chrome-192x192.png">
+    <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-152x152.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=no" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="description" content="Das ist die Seite der Schnellsuche auf der die Suchergebnisse aus dem Suchfeld anhand des Suchbegriffes angezeigt werden." />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://tmssl.akamaized.net/images/tm_logo.png" />
+<meta property="og:description" content="" />
+<meta property="og:title" content="Resultados da pesquisa" />
+<meta property="og:url" content="https://www.transfermarkt.pt/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="de" rel="alternate" href="https://www.transfermarkt.de/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="de-LU" rel="alternate" href="https://www.transfermarkt.de/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="de-AT" rel="alternate" href="https://www.transfermarkt.at/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="de-CH" rel="alternate" href="https://www.transfermarkt.ch/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="tr" rel="alternate" href="https://www.transfermarkt.com.tr/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="it-CH" rel="alternate" href="https://www.transfermarkt.it/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="it" rel="alternate" href="https://www.transfermarkt.it/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="pl" rel="alternate" href="https://www.transfermarkt.pl/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="en-GB" rel="alternate" href="https://www.transfermarkt.co.uk/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="en-IE" rel="alternate" href="https://www.transfermarkt.co.uk/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="es" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="es-ES" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="es-CL" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="es-VE" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="es-PE" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="es-EC" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="es-CU" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="nl" rel="alternate" href="https://www.transfermarkt.nl/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="pt" rel="alternate" href="https://www.transfermarkt.pt/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="ru" rel="alternate" href="https://www.transfermarkt.ru/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="fr-CH" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="fr" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="fr-CA" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="fr-CI" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="fr-LU" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="fr-BE" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="pt-BR" rel="alternate" href="https://www.transfermarkt.com.br/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="en-US" rel="alternate" href="https://www.transfermarkt.us/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="en-CA" rel="alternate" href="https://www.transfermarkt.us/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="en-IN" rel="alternate" href="https://www.transfermarkt.co.in/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="en-ZA" rel="alternate" href="https://www.transfermarkt.co.za/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="x-default" rel="alternate" href="https://www.transfermarkt.com/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="en" rel="alternate" href="https://www.transfermarkt.com/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="nl-BE" rel="alternate" href="https://www.transfermarkt.be/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="es-AR" rel="alternate" href="https://www.transfermarkt.com.ar/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="es-MX" rel="alternate" href="https://www.transfermarkt.mx/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="es-CO" rel="alternate" href="https://www.transfermarkt.co/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="ms" rel="alternate" href="https://www.transfermarkt.my/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="ja" rel="alternate" href="https://www.transfermarkt.jp/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link hreflang="id" rel="alternate" href="https://www.transfermarkt.co.id/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/menue.css?lm=1623226123" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/tm-grid.css?lm=1623226123" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/main.css?lm=1623226123" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/foundation-icons.css?lm=1623226123" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/assets/b7c5571cf8957553f95f6d9069eaed67/jui/css/base/jquery-ui.css?lm=1623226124" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/main_desktop.css?lm=1623226123" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/sprite-main.css?lm=1623226123" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/chosen.css?lm=1623226123" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/jquery-ui-1.10.4.custom.css?lm=1623226123" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/jquery-ui-1.10.4.tm-theme.css?lm=1623226123" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/main_werbung.css?lm=1623226123" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/shortclasses.css?lm=1623226123" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/print.css?_sn=1?lm=1623226123" media="print" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/desktop.css?lm=1623226123" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/domainspezifisch/desktop-pt.css?lm=1623226123" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/gridview.css?lm=1623226123" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/paginator.css?lm=1623226123" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/assets/bdb39bc7538f732f9833170435d23c28/css/tooltipster.css?lm=1623226124" />
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/vendor/jquery.min.js?lm=1623226120"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/assets/b7c5571cf8957553f95f6d9069eaed67/jquery.ba-bbq.min.js?lm=1623226124"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/assets/b344ec51bd68be8ed48379c9e69eb01d/js/jquery.scrollTo.min.js?lm=1623226124"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/assets/b344ec51bd68be8ed48379c9e69eb01d/js/elinkpagermobile.js?lm=1623226124"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/localStorage.js?lm=1623226120"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/foundation.js?lm=1623226120"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/main.js?lm=1623226120"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/jquery-ui-1.10.4.custom.min.js?lm=1623226120"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/clipboard.min.js?lm=1623226120"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/chosen.ajaxaddition.jquery.js?lm=1623226120"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/jquery.icheck.min.js?lm=1623226120"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/functions.js?lm=1623226120"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/main_desktop.js?lm=1623226120"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/chosen.jquery.js?lm=1623226120"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/assets/bdb39bc7538f732f9833170435d23c28/js/jquery.tooltipster.js?lm=1623226124"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+<!-- DFPV2 --->
+		var gptscript = document.createElement("script");
+			gptscript.type = "text/javascript";
+			gptscript.src = 'https://www.googletagservices.com/tag/js/gpt.js';
+			//gptscript.charset = "utf-8";
+			gptscript.async = true;
+			var gptfirstScript = document.getElementsByTagName("script")[0];
+			gptfirstScript.parentNode.insertBefore(gptscript, gptfirstScript);
+
+		var googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+			googletag.cmd.push(function() {
+var skyscraper_mapping = googletag.sizeMapping().
+		addSize([0, 0], [[160, 600], [120, 600]]).
+		addSize([640, 480], [[160, 600], [120, 600]]).
+		addSize([980, 690], [[160, 600], [120, 600]]).
+		addSize([1024, 768], [[160, 600], [300, 600], [120, 600]]).build();
+googletag.defineSlot('/58778164/TM_Desktop_Skyscraper_300x600', [[160, 600], [120, 600], [300, 600]], 'Skyscraper').defineSizeMapping(skyscraper_mapping).addService(googletag.pubads());
+var billboard_mapping = googletag.sizeMapping().
+		addSize([0, 0], [[468, 60], 'fluid']).
+		addSize([640, 480], [[468, 60], 'fluid']).
+		addSize([980, 690], [[970, 250], [970, 90], [970, 66], [728, 90]]).
+		addSize([1024, 768], [[970, 250], [970, 90], [970, 66], [728, 90]]).build();
+googletag.defineSlot('/58778164/TM_Desktop_CenterLeaderboard_970x250', [[468, 60], [970, 90], [970, 250], [728, 90], 'fluid', [970, 66]], 'Billboard').defineSizeMapping(billboard_mapping).addService(googletag.pubads());
+var fullsize_contentad_mapping = googletag.sizeMapping().
+		addSize([0, 0], [468, 60]).
+		addSize([640, 480], [[728, 90], [468, 60]]).
+		addSize([980, 690], [[728, 90], [970, 90], [970, 250]]).
+		addSize([1024, 768], [[970, 250], [970, 90], [728, 90]]).build();
+googletag.defineSlot('/58778164/TM_Desktop_BottomLeaderboard_970x250', [[468, 60], [728, 90], [970, 90], [970, 250]], 'BillboardFooter').defineSizeMapping(fullsize_contentad_mapping).addService(googletag.pubads());
+googletag.defineOutOfPageSlot('/58778164/TM_Desktop_RichMedia_1x1', 'Richmedia').addService(googletag.pubads());
+googletag.pubads().setCentering(true);
+googletag.pubads().collapseEmptyDivs();
+googletag.pubads().enableSingleRequest();
+googletag.pubads().setTargeting("URL","www.transfermarkt.pt")
+googletag.pubads().setTargeting("cg1", ["suche"]);
+googletag.pubads().setTargeting("cg2", ["schnellsuche"]);
+googletag.enableServices();
+})
+<!-- DFPV2-ENDE -->
+/*]]>*/
+</script>
+<title>Resultados da pesquisa | Transfermarkt</title>
+    <script type="module" src="https://tmsi.akamaized.net/js/globals-dev/tm-global-elements.esm.js">
+/*<![CDATA[*/
+
+/*]]>*/
+</script><script type="text/javascript" nomodule="" src="https://tmsi.akamaized.net/js/globals-dev/tm-global-elements.js">
+/*<![CDATA[*/
+
+/*]]>*/
+</script>
+<script type="text/javascript">
+   tmData = {
+       loggedIn : "0",
+       tmTraffic: "0",
+   };
+</script>
+<script>// Set to the same value as the web property used on the site
+		var gaProperty = 'UA-3816204-13';
+
+		// Disable tracking if the opt-out cookie exists.
+		var disableStr = 'ga-disable-' + gaProperty;
+		if (document.cookie.indexOf(disableStr + '=true') > -1) {
+			window[disableStr] = true;
+		}
+
+		// Opt-out function
+		function gaOptout() {
+			document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+			window[disableStr] = true;
+		}</script>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-3816204-13"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag() { dataLayer.push(arguments); } 
+   gtag('set', 'linker', { 'domains': [/^transfermarkt\.(com|de|nl|it|at|ch|es|fr|com\.tr|pt|tv|pl|co\.uk)$/]});
+   gtag('js', new Date()); 
+   gtag('set',
+  {
+    'custom_map': {
+                    'dimension1': 'loggedIn',
+                    'dimension2': 'tmTraffic'
+                }
+  });
+        gtag('config', 'UA-3816204-13', {
+                'anonymize_ip': true,
+                'transport_type': 'beacon',
+                'content_group1': 'suche',
+                'content_group2': 'schnellsuche',
+                'content_group3': '',
+                'content_group4': '',
+                'loggedIn': tmData.loggedIn,
+                'tmTraffic': tmData.tmTraffic
+            }); 
+   function tmEvent(category, action, label) {
+                gtag('event',
+                    action,
+                    {
+                        'event_category': category,
+                        'event_label': label
+                    }
+                );
+            }
+
+            function tmTiming(value, name, event_category, event_label) {
+                gtag('event', 'timing_complete', {
+                    name,
+                    value,
+                    event_category,
+                    event_label
+                });
+            }
+            
+	</script><!--  SZM 2.0 (IVW/AGOF) -->
+<script type="text/javascript" src="https://script.ioam.de/iam.js"></script>    <script type="text/javascript" src="https://tmssl.akamaized.net//ads/ads.js"></script>
+    <script type="text/javascript">
+        if (self == top) {
+            document.documentElement.style.display = 'block';
+        } else {
+            top.location = self.location;
+        }
+    </script>
+    <noscript>
+        <style>
+            html body *:not(.noscript) {
+                display: none;
+            }
+        </style>
+        <div class="noscript">
+            Um die Seite nutzen zu können, schalten Sie bitte Ihr Javascript ein.        </div>
+    </noscript>
+
+    <!--[if lte IE 8]>
+    <link rel="stylesheet" type="text/css" href="/css/ie.css"/><![endif]-->
+    
+    <!-- no Tisoomi -->    <style>
+        @font-face {
+            font-family: 'OSL';
+            font-style: normal;
+            font-weight: normal;
+            src: local('Open Sans Cond Light'), local('OpenSans-CondensedLight'),
+                url("https://tmsi.akamaized.net/fonts/OpenSans-CondensedLight300.woff2") format('woff2'),
+                url("https://tmsi.akamaized.net/fonts/OpenSans-CondensedLight.woff") format('woff');
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'OSB';
+            font-style: normal;
+            font-weight: normal;
+            src: local('Open Sans Cond Light'), local('OpenSans-CondensedLight'),
+                url("https://tmsi.akamaized.net/fonts/OpenSans-CondensedLight300.woff2") format('woff2'),
+                url("https://tmsi.akamaized.net/fonts/OpenSans-CondensedLight.woff") format('woff');
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'Source Sans Pro';
+            font-style: normal;
+            font-weight: normal;
+            src: local('Source Sans Pro'), local('SourceSansPro-Regular'),
+                url("https://tmsi.akamaized.net/fonts/SourceSansPro-Regular400.woff2") format('woff2'),
+                url("https://tmsi.akamaized.net/fonts/SourceSansPro-Regular.woff") format('woff');
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'Source Sans Pro';
+            font-style: normal;
+            font-weight: bold;
+            src: local('Source Sans Pro Bold'), local('SourceSansPro-Bold'),
+                url("https://tmsi.akamaized.net/fonts/SourceSansPro-Bold700.woff2") format('woff2'),
+                url("https://tmsi.akamaized.net/fonts/SourceSansPro-Bold.woff") format('woff');
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'Oswald';
+            font-style: normal;
+            font-weight: lighter;
+            src:
+                url("https://tmsi.akamaized.net/fonts/Oswald-Light200.woff2") format('woff2'),
+                url("https://tmsi.akamaized.net/fonts/oswald_light.woff") format('woff');
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'Oswald';
+            font-style: normal;
+            font-weight: normal;
+            src:
+                url("https://tmsi.akamaized.net/fonts/Oswald-Regular400.woff2") format('woff2'),
+                url("https://tmsi.akamaized.net/fonts/oswald_regular.woff") format('woff');
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'Oswald';
+            font-style: normal;
+            font-weight: bold;
+            src:
+                url("https://tmsi.akamaized.net/fonts/Oswald-Bold700.woff2") format('woff2'),
+                url("https://tmsi.akamaized.net/fonts/oswald_bold.woff") format('woff');
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: "socicon";
+            src: url("https://tmsi.akamaized.net/fonts/socicon.eot");
+            src: url("https://tmsi.akamaized.net/fonts/socicon.eot?#iefix") format("embedded-opentype"),
+                url("https://tmsi.akamaized.net/fonts/socicon.woff") format("woff"),
+                url("https://tmsi.akamaized.net/fonts/socicon.ttf") format("truetype"),
+                url("https://tmsi.akamaized.net/fonts/socicon.svg#socicon") format("svg");
+            font-weight: normal;
+            font-style: normal;
+            font-display: swap;
+        }
+    </style>
+    </head>
+<body x-ms-format-detection="none" style="overflow-y: scroll;" class="" itemscope itemtype="http://schema.org/WebPage">
+    <tm-language-hint></tm-language-hint>
+            <div id="navibalken" class="navibalken hide-for-small"></div>
+    <div id="main">
+                <div class="row" id="logobereich">
+            <div id="header" class="large-12 columns">
+                <div class="naviback hide-for-small hide-for-print"></div>
+                <div class="werbung-skyscraper-container hide-for-small">
+                    
+<div class="werbung werbung-skyscraper">
+	<!-- DFPV2 -->
+	<div id="Skyscraper" >
+	<script>
+		googletag.cmd.push(function() { googletag.display('Skyscraper'); });
+	</script>
+	</div>
+</div>
+                </div>
+
+                <div class="werbung-skyscraperbtf-container hide-for-small">
+                                    </div>
+                <div class="row" style="margin: 0;">
+                    <div class="large-3 columns">
+                        <a href="/" class="hide-for-small">
+                            <img class="icon-logo" src="https://tmsi.akamaized.net/head/transfermarkt_logo.svg" title="Transfermarkt" alt="Transfermarkt">
+                        </a>
+                                                    <tm-domainswitcher open-list="false" tld="pt"></tm-domainswitcher>
+                                            </div>
+
+
+                        <div id="header-social-icons" class="large-3 columns flexCenter">
+		                <a name="SocMedia" href="https://www.facebook.com/Transfermarkt.pt" target="_blank" onclick="tmEvent('SM-Icons_Header','click','Facebook');
+"><span class="icon-facebook">&nbsp;</span></a>|
+                <a name="SocMedia" href="https://twitter.com/TMpt_news" target="_blank" onclick="tmEvent('SM-Icons_Header','click','Twitter');
+"><span class="icon-twitter">&nbsp;</span></a>|
+                <a name="SocMedia" href="http://instagram.com/transfermarkt_official" target="_blank" onclick="tmEvent('SM-Icons_Header','click','Instagram');
+"><span class="icon-instagram_grau">&nbsp;</span></a>|
+                <a name="SocMedia" href="/intern/rssguide" target="_blank" onclick="tmEvent('SM-Icons_Header','click','RSS');
+"><span class="icon-rss_feed_grau">&nbsp;</span></a>
+				    </div>
+
+
+                                            <div class="large-6 columns " id="schnellsuche-platz">
+                            <form name="schnellsuche" id="schnellsuche" class="noclose" action="/schnellsuche/ergebnis/schnellsuche">
+                                <input type="text" name="query" class="header-suche" onClick="" placeholder="Pesquisar" autocorrect="off" spellcheck="false"" value="Cristiano_Ronaldo" />
+                                <input type="image" class="header-suche-abschicken" src="/images/suche-grau.svg" alt="Pesquisar" />
+                            </form>
+                            <a href="/detailsuche/spielerdetail/suche" title="Pesquisa avançada - jogadores" id="detailsuche-head" class="header-suche-detailsuche">
+                                <span class="icon-detailsuche"></span>
+                            </a>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+                <div class="row hide-on-print navihalter ">
+            <div class="page_wrapper">
+                <div class="large-12 columns megamenu_container megamenu_dark_bar megamenu_dark">
+                    <a href="/" class="sticky-logo hide-for-small">
+                        <span title="Transfermarkt" class="tm_svg"></span>
+                    </a>
+                        <!-- Begin Menu Container -->
+<ul class="megamenu  extra-domain " id="mainmenue" itemscope="itemscope" itemtype="http://www.schema.org/SiteNavigationElement">
+    <!-- Begin Mega Menu -->
+    <li id="mobile_hauptmenu_button">
+                <ul id="hauptmenuepunkte">
+                                    <li id="naviid_news"class=" megamenu_drop_list">
+                        <a class="megamenu_drop"
+                                                       onClick="tmEvent('News','click','menu');
+">
+                            Notícias                        </a>
+                                                <div class="dropdown_fullwidth">
+                            <div class="col_12 menue_main_col">
+                                                                    <img src="/images/bx_loader.gif"/>
+                                                                </div>
+                            <div class="col_3 menue_right_col hide-for-small">
+                            </div>
+                        </div>
+                                            </li>
+                                            <li id="naviid_transfers"class=" megamenu_drop_list">
+                        <a class="megamenu_drop"
+                                                       onClick="tmEvent('Transfers & Gerüchte','click','menu');
+">
+                            Transferências & rumores                        </a>
+                                                <div class="dropdown_fullwidth">
+                            <div class="col_12 menue_main_col">
+                                                                    <img src="/images/bx_loader.gif"/>
+                                                                </div>
+                            <div class="col_3 menue_right_col hide-for-small">
+                            </div>
+                        </div>
+                                            </li>
+                                            <li id="naviid_marktwerte"class=" megamenu_drop_list">
+                        <a class="megamenu_drop"
+                                                       onClick="tmEvent('Marktwerte','click','menu');
+">
+                            Valores de mercado                        </a>
+                                                <div class="dropdown_fullwidth">
+                            <div class="col_12 menue_main_col">
+                                                                    <img src="/images/bx_loader.gif"/>
+                                                                </div>
+                            <div class="col_3 menue_right_col hide-for-small">
+                            </div>
+                        </div>
+                                            </li>
+                                            <li id="naviid_wettbewerbe"class=" megamenu_drop_list">
+                        <a class="megamenu_drop"
+                                                       onClick="tmEvent('Wettbewerbe','click','menu');
+">
+                            Competições                        </a>
+                                                <div class="dropdown_fullwidth">
+                            <div class="col_12 menue_main_col">
+                                                                    <img src="/images/bx_loader.gif"/>
+                                                                </div>
+                            <div class="col_3 menue_right_col hide-for-small">
+                            </div>
+                        </div>
+                                            </li>
+                                            <li id="naviid_foren"class=" megamenu_drop_list">
+                        <a class="megamenu_drop"
+                                                       onClick="tmEvent('Foren','click','menu');
+">
+                            Fóruns                           </a>
+                                                <div class="dropdown_fullwidth">
+                            <div class="col_12 menue_main_col">
+                                                                    <img src="/images/bx_loader.gif"/>
+                                                                </div>
+                            <div class="col_3 menue_right_col hide-for-small">
+                            </div>
+                        </div>
+                                            </li>
+                                            <li id="naviid_meintm"class=" megamenu_drop_list">
+                        <a class="megamenu_drop"
+                                                       onClick="tmEvent('MeinTM','click','menu');
+">
+                            Meu TM                        </a>
+                                                <div class="dropdown_fullwidth">
+                            <div class="col_12 menue_main_col">
+                                                                    <img src="/images/bx_loader.gif"/>
+                                                                </div>
+                            <div class="col_3 menue_right_col hide-for-small">
+                            </div>
+                        </div>
+                                            </li>
+                                            <li id="naviid_live" class="">
+                        <a href="/ticker/index/live" class="live-navilink"
+                           onClick="tmEvent('Live','click','menu');
+">Em direto                            <tm-live-match-counter auto-request="true" content='["Jogo em direto ", "Jogos em direto"]'></tm-live-match-counter>
+                        </a>
+                                            </li>
+                            </ul>
+    </li>
+</ul>
+                    <a href="/" id="logo_klein" class="show-for-small">
+                        <img class="icon-logo" src="https://tmsi.akamaized.net/head/transfermarkt_logo.svg" title="Transfermarkt" alt="Transfermarkt">
+                    </a>
+                                        <form name="schnellsuche" id="schnellsuche-sticky" class="noclose sticky-suche" action="/schnellsuche/ergebnis/schnellsuche">
+                        <input type="text" name="query" class="header-suche" onClick="" placeholder="Pesquisar" />
+                        <input type="image" class="header-suche-abschicken" src="https://tmssl.akamaized.net//images/suchicon.png" alt="Pesquisar" />
+                    </form>
+                    <a href="/detailsuche/spielerdetail/suche" title="Pesquisa avançada - jogadores" id="detailsuche-head" class="header-suche-detailsuche">
+                        <span class="icon-detailsuche"></span>
+                    </a>
+                    <a name="ToTop-Menu" id="arrow-up-xy" href="#" onClick="">
+                        <i class="fi-arrow-up"></i>
+                    </a>
+                    <div class="userbox ub-abgemeldet" id="login" onClick="tmEvent('login','click','sign_in_button');
+">
+    <a>
+        <span class="login-torso">
+            <i class="fi-torso"></i>
+        </span>
+        <span class="anmelden">Registar</span>
+    </a>
+</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row popuphalter">
+                <div id="loginbox" class="small-12"></div>
+<div id="registerbox"></div>
+<div id="passwortVergessenBox"></div>
+        </div>
+
+                    <script>
+                function googleEvent(string) {
+                    //_gaq.push(['_trackEvent', string, 'click', 'menu']);
+                    tmEvent(string, 'click', 'menu');
+                }
+            </script>
+                            <div class="row">
+                    <div id="breadcrumb" class="large-12 columns" itemscope itemtype="https://schema.org/BreadcrumbList">
+                        <div class="breadcrumb-box">
+                            <div class="breadcrumb">
+                                
+<div id="quickselect-skeleton" class="ssc" style="height: 40px;">
+  <div class="ssc-wrapper flex" style="height: 100%; padding: 0">
+    <div class="ssc-square quickselect-element" style="width: 40px;"></div>
+    <div class="ssc-square quickselect-element quickselect-selector" style="width: 171.06px;"></div>
+    <div class="ssc-square quickselect-element quickselect-selector" style="width: 170.84px;"></div>
+    <div class="ssc-square quickselect-element quickselect-selector" style="width: 138.03px;"></div>
+    <div class="ssc-square quickselect-element quickselect-selector" style="width: 141.5px;"></div>
+  </div>
+</div>
+
+<tm-quick-select-bar
+    default-country="136"
+    default-competition=""
+    default-club=""
+    default-player=""
+    dropdown-visible=""
+    translations='{&quot;home&quot;:&quot;Home&quot;,&quot;country&quot;:&quot;Pa\u00eds&quot;,&quot;competition&quot;:&quot;Competi\u00e7\u00e3o&quot;,&quot;club&quot;:&quot;Clube&quot;,&quot;player&quot;:&quot;Jogadores&quot;,&quot;attack&quot;:&quot;Avan\u00e7ado&quot;,&quot;midfield&quot;:&quot;M\u00e9dio&quot;,&quot;defense&quot;:&quot;Defesa&quot;,&quot;goalkeeper&quot;:&quot;Guarda-redes&quot;}'
+    >
+</tm-quick-select-bar>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                    <div style="text-align:right"></div>
+        
+<div class="werbung werbung-billboard">
+	<!-- DFPV2 -->
+	<div id="Billboard" >
+	<script>
+		googletag.cmd.push(function() { googletag.display('Billboard'); });
+	</script>
+	</div>
+</div>
+        
+<div id="modalHolder"></div>
+        
+    <div class="row">
+        <div class="large-12 columns">
+            <div class="box">
+                <div class="table-header">Resultados de pesquisa para jogador(es)                    - 1 Resultados</div>
+                <div class="responsive-table">
+					<div id="yw0" class="grid-view">
+<div class="summary"></div>
+<table class="items">
+<thead>
+<tr>
+<th id="yw0_c0">Nome / Equipa</th><th class="zentriert" id="yw0_c1">Posição</th><th class="zentriert" id="yw0_c2">Clube</th><th class="zentriert" id="yw0_c3"><a class="sort-link" href="/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo&amp;sort=age">Idade</a></th><th class="zentriert" id="yw0_c4">Nac. </th><th class="rechts" id="yw0_c5"><a class="sort-link" href="/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo&amp;sort=marktwert">Valor de mercado</a></th><th class="rechts" id="yw0_c6">Empresário</th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table class="inline-table"><tr><td rowspan="2"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/8198-1568120625.jpg?lm=1" title="Cristiano Ronaldo" alt="Cristiano Ronaldo" class="bilderrahmen-fixed" /></a></td><td class="hauptlink"><a title="Cristiano Ronaldo" class="spielprofil_tooltip" id="8198" href="/cristiano-ronaldo/profil/spieler/8198">Cristiano Ronaldo</a></td></tr><tr><td><a class="vereinprofil_tooltip" id="506" href="/juventus-turin/startseite/verein/506">Juventus FC</a></td></tr></table></td><td class="zentriert">PL</td><td class="zentriert"><a class="vereinprofil_tooltip" id="506" href="/juventus-turin/startseite/verein/506"><img src="https://tmssl.akamaized.net/images/wappen/tiny/506.png?lm=1594291454" title="&nbsp;" alt="Juventus FC" class="tiny_wappen" /></a></td><td class="zentriert">36</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/136.png?lm=1520611569" title="Portugal" alt="Portugal" class="flaggenrahmen" /></td><td class="rechts hauptlink">45,00 M €</td><td class="rechts"><a href="/gestifute/beraterfirma/berater/413">Gestifute</a></td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo"><span>8198</span></div>
+</div>                </div>
+                <div class="table-footer">
+                    <a href="/detailsuche/spielerdetail/suche">
+						Pesquisa avançada - jogadores                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+	    <div class="row">
+        <div class="large-12 columns">
+            <div class="box">
+                <div class="table-header">Resultados de pesquisa para empresários                    - 1 Resultados</div>
+                <div class="responsive-table">
+					<div id="yw2" class="grid-view">
+<div class="summary"></div>
+<table class="items">
+<thead>
+<tr>
+<th class="zentriert" id="yw2_c0">Premium Service</th><th class="zentriert" id="yw2_c1">Agência</th><th class="zentriert" id="yw2_c2">Licença</th><th id="yw2_c3">Empresário</th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td class="zentriert"><span class="icon-berater-keinadresseintrag icons_sprite" title="Não ativo">&nbsp;</span></td><td class="zentriert"><table class=inline-table title=Ronaldo Goiano>
+													<tr>
+														<td rowspan=2>
+															<a href="/berater/beraterfirma?id=5757"><img src="https://tmssl.akamaized.net/images/berater_logo/small/berater-default.png?lm=1520606995" title="Ronaldo Goiano" alt="-" class="berater-logorahmen" /></a>
+														</td>
+														<td class=hauptlink><a href="/ronaldo-goiano/beraterfirma/berater/5757">Ronaldo Goiano</a></td></tr>
+												</table></td><td class="zentriert"><img src="https://tmsi.akamaized.net/icons/playeragent_license_agent_small.png" title="Agente de jogadores" /></td><td>Ronaldo Goiano</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo"><span>5757</span></div>
+</div>                </div>
+            </div>
+        </div>
+    </div>
+    <style>
+        <!--
+        .icon-transfer-grey {
+            background-position: -375px -26px;
+            width: 15px;
+            height: 15px;
+            vertical-align: middle;
+            cursor: pointer !important;
+        }
+
+        .icon-stadion-grey {
+            background-position: -656px -30px;
+            width: 29px;
+            height: 15px;
+            vertical-align: middle;
+            cursor: pointer !important;
+        }
+
+        -->
+    </style>
+        
+<div class="werbung werbung-fullsize_contentad">
+	<!-- DFPV2 -->
+	<div id="BillboardFooter" >
+	<script>
+		googletag.cmd.push(function() { googletag.display('BillboardFooter'); });
+	</script>
+	</div>
+</div>
+                <div id="footer" class="row large-12 columns small-12">
+            <a name="Footer" href="/" class="footer-logo"><img src="/images/logo.png" alt="Transfermarkt" /></a>
+        <a name="Footer" href="/intern/impressum">Informação legal</a>
+    |
+    <a name="Footer" href="/intern/web/datenschutz">Política de Privacidade</a>
+    |
+        <a name="Footer" href="/intern/anb">Termos e Condições</a>
+    |
+    <a name="Footer" href="/intern/tmteam">Equipa TM</a>
+
+    
+                |
+
+        <a name="Footer" href="/intern/faq"> Perguntas frequentes</a> |
+        <a name="Footer" href="/intern/fehlermelden">Enviar mensagem de erro</a>
+</div>
+                <div id="menue_overlay" style="display: none;"></div>
+    </div>
+    
+	<!-- DFPV2 -->
+	<div id="Richmedia" style="z-index:1000000">
+	<script>
+		googletag.cmd.push(function() { googletag.display('Richmedia'); });
+	</script>
+	</div>
+    <!-- SZM VERSION="2.0" -->
+    <script type="text/javascript">
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_rest_r",
+"oc":"",
+"mg":"yes",
+"sv":"i2",
+"sc":"yes",
+"co":""
+}
+iom.c(iam_data,1);
+    </script>
+    <!--/SZM -->
+        <script type="module">
+var defaultOptions={tracking:!0,refreshAds:!0};export var refreshAd=function(){var e,n;[ASCDP.hasOwnProperty("adS"),null===(e=ASCDP.adS)||void 0===e?void 0:e.hasOwnProperty("reloadAds"),"function"==typeof(null===(n=ASCDP.adS)||void 0===n?void 0:n.reloadAds)].every(function(e){return e})&&ASCDP.adS.reloadAds()};export var TmTrackingAndAds=function(e,n){void 0===n&&(n=defaultOptions);var r=["tabelle","reiter","forum"].includes(e)?e:"";n.tracking&&(gtag("event","page_view",{page_path:"/jsContent"+window.location.pathname}),sendIvwData(r)),n.refreshAds&&"undefined"!=typeof ASCDP&&refreshAd()};window.tmTrackingAndAds=function(e,n){return TmTrackingAndAds(e,n)};</script>
+        <script>
+            $(document).on('ready ajaxSuccess', function() {
+                $(document).foundation();
+            });
+        </script>
+                <script type="text/javascript">
+	if(typeof(adet) == "boolean" && adet == false){
+		img_src="/static/singlepictures/jk99hhfsdh209nbnkjldgh90sghfsdlk";
+	} else {
+		img_src="/static/singlepictures/jku90whjlkjbwbta1g4b8h89fh8sgh8d";
+	}
+	var elem = document.createElement("img");
+	document.body.appendChild(elem);
+	elem.src = img_src;
+</script>
+
+    
+<script type="text/javascript" src="https://tmssl.akamaized.net/assets/aa69c6e9c51f1e811847082c63633956/gridview/jquery.yiigridview.js?lm=1623226124"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/libs/micromodal.min.js?lm=1623226120"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/libs/intersection-observer.min.js?lm=1623226120"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/libs/lazyload.min.js?lm=1623226120"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+	function initCss() {
+	}
+	var aktuelleUrl = 'https://www.transfermarkt.pt/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo'
+	var loginUrl='/profil/login?referrer=https%3A%2F%2Fwww.transfermarkt.pt%2Fschnellsuche%2Fergebnis%2Fschnellsuche%3Fquery%3DCristiano_Ronaldo';
+	var notificationUrl='/notifications/liste';
+	var privateNachrichtenUrl = '/privateNachrichten/liste'
+	var favoritenUrl = '/favoriten/userFavoriten'
+	var favoritenHandleUrl = '/favoriten/handle'
+	var favoritEntfernenText = 'Remover favoritos'
+	var favoritHinzufuegenText = 'Adicionar favoritos'
+	var vereinUrl = '/verein/userbox';
+	var boxOpen = false;
+	var titleString='Resultados da pesquisa | Transfermarkt';
+	var naviController = 'schnellsuche';
+	var naviAction = 'ergebnis';
+	var naviPath = 'schnellsuche/ergebnis/schnellsuche';
+	var naviId = '';
+	var naviSaison = '';
+	var onlyDE = '';
+	var onlyMobile = '';
+	var onlyTablet = '';
+	var getUserID = '';
+
+function ReloadPixelImages(typ) {
+    if(typ == 'tabelle') {
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_rest_r_t",
+"oc":"",
+"mg":"yes",
+"sc":"yes",
+"sv":"i2",
+"co":""
+}
+iom.c(iam_data,1);
+
+    }else if(typ == 'reiter') {
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_rest_r_r",
+"oc":"",
+"mg":"yes",
+"sv":"i2",
+"sc":"yes",
+"co":""
+}
+iom.c(iam_data,1);
+
+    }else if(typ == 'forum') {
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_rest_r_forum",
+"oc":"",
+"mg":"yes",
+"sv":"i2",
+"sc":"yes",
+"co":""
+}
+iom.c(iam_data,1);
+
+    }else {
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_rest_r_s",
+"oc":"",
+"mg":"yes",
+"sv":"i2",
+"sc":"yes",
+"co":""
+}
+iom.c(iam_data,1);
+
+    }
+    gtag('event', 'page_view', {page_path: "/jsContent" + window.location.pathname})
+    if(typeof ASCDP.adS.reloadAds == 'function' && typ != '') {
+        ASCDP.adS.reloadAds()
+    }
+}
+function sendIvwData(typ) {
+    if(typeof iom === 'object' && typeof iom.c === 'function') {
+        if(typ == 'tabelle') {
+            var iam_data = {
+"st":"transfer",
+"cp":"ausland_rest_r_t",
+"oc":"",
+"mg":"yes",
+"sc":"yes",
+"sv":"i2",
+"co":""
+}
+iom.c(iam_data,1);
+
+        }else if(typ == 'reiter') {
+            var iam_data = {
+"st":"transfer",
+"cp":"ausland_rest_r_r",
+"oc":"",
+"mg":"yes",
+"sv":"i2",
+"sc":"yes",
+"co":""
+}
+iom.c(iam_data,1);
+
+        }else if(typ == 'forum') {
+            var iam_data = {
+"st":"transfer",
+"cp":"ausland_rest_r_forum",
+"oc":"",
+"mg":"yes",
+"sv":"i2",
+"sc":"yes",
+"co":""
+}
+iom.c(iam_data,1);
+
+        }else {
+            var iam_data = {
+"st":"transfer",
+"cp":"ausland_rest_r_s",
+"oc":"",
+"mg":"yes",
+"sv":"i2",
+"sc":"yes",
+"co":""
+}
+iom.c(iam_data,1);
+
+        }
+    }
+}
+jQuery(function($) {
+jQuery('#yw0').yiiGridView({'ajaxUpdate':['yw0'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'grid\x2Dview\x2Dloading','filterClass':'filters','tableClass':'items','selectableRows':1,'enableHistory':false,'updateSelector':'\x7Bpage\x7D,\x20\x7Bsort\x7D','filterSelector':'\x7Bfilter\x7D','pageVar':'Spieler_page'});
+jQuery('#yw2').yiiGridView({'ajaxUpdate':['yw2'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'grid\x2Dview\x2Dloading','filterClass':'filters','tableClass':'items','selectableRows':1,'enableHistory':false,'updateSelector':'\x7Bpage\x7D,\x20\x7Bsort\x7D','filterSelector':'\x7Bfilter\x7D','pageVar':'page'});
+
+          $(".spielprofil_tooltip").tooltipster({'position':'right','arrowColor':'white','delay':'100','speed':0,'contentAsHTML':true,'interactive':true,'content':'\x0A\x09\x09\x09\x3Cimg\x20src\x3D\x22https\x3A\x2F\x2Ftmssl.akamaized.net\x2F\x2Fimages\x2Fspinner.gif\x22\x20style\x3D\x22vertical\x2Dalign\x3A\x20middle\x3B\x22\x20\x2F\x3E\x0A\x09\x09','functionBefore':function(origin, continueTooltip) { continueTooltip(); id_array = origin.context.id.split("/"); var spieler_id = id_array[0]; $.post( "/spieler/_profilTooltip", { spieler_id : spieler_id }, function(data) { if(data) { origin.tooltipster("update", data); } }); }});
+          
+
+          $(".vereinprofil_tooltip").tooltipster({'position':'right','arrowColor':'white','delay':'100','speed':0,'contentAsHTML':true,'interactive':true,'content':'\x0A\x09\x09\x09\x3Cimg\x20src\x3D\x22https\x3A\x2F\x2Ftmssl.akamaized.net\x2F\x2Fimages\x2Fspinner.gif\x22\x20style\x3D\x22vertical\x2Dalign\x3A\x20middle\x3B\x22\x20\x2F\x3E\x0A\x09\x09','functionBefore':function(origin, continueTooltip) { continueTooltip(); id_array = origin.context.id.split("/"); var verein_id = id_array[0]; $.post( "/verein/_profilTooltip", { verein_id : verein_id }, function(data) { if(data) { origin.tooltipster("update", data); } }); }});
+          
+});
+/*]]>*/
+</script>
+</body>
+
+</html>

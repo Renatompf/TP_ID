@@ -1,0 +1,80 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+	<xsd:element name="Nome" type="xsd:string"/>
+	<xsd:element name="Alcunha" type="xsd:string"/>
+	<xsd:element name="DataNascimento" type="xsd:string"/>
+	<xsd:element name="Idade" type="xsd:int"/>
+	<xsd:element name="Nacionalidade" type="xsd:string"/>
+	<xsd:element name="Altura" type="xsd:double"/>
+	<xsd:element name="Peso" type="xsd:double"/>
+	<xsd:element name="PePreferencial" type="xsd:string"/>
+	<xsd:element name="Posicao" type="xsd:string"/>
+	<xsd:element name="Selecao" type="xsd:string"/>
+	<xsd:element name="NrCamisola" type="xsd:double"/>
+	<xsd:element name="ValorContrato" type="xsd:double"/>
+	<xsd:element name="Empresario" type="xsd:string"/>
+	<xsd:element name="Foto" type="xsd:string"/>
+	<xsd:element name="Premio" type="xsd:string"/>
+	<xsd:element name="ClubeAtual" type="xsd:string"/>
+	<xsd:element name="ClubeAnterior" type="xsd:string"/>
+  
+	<xsd:element name="Jogador">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Nome"/>
+				<xsd:element ref="Alcunha"/>
+				<xsd:element ref="DataNascimento"/>
+				<xsd:element ref="Idade"/>
+				<xsd:element ref="Nacionalidade"/>
+				<xsd:element ref="Altura"/>
+				<xsd:element ref="Peso"/>
+				<xsd:element ref="PePreferencial"/>
+				<xsd:element ref="Posicao"/>
+				<xsd:element ref="Selecao"/>
+				<xsd:element ref="NrCamisola" minOccurs="0"/>
+				<xsd:element ref="ValorContrato" minOccurs="0"/>
+				<xsd:element ref="Empresario"/>
+				<xsd:element ref="Foto"/>
+				<xsd:element ref="Premios"/>
+				<xsd:element ref="Clubes"/>
+			</xsd:sequence>
+			<xsd:attribute name="estadoAtual" type="xsd:string"/>
+		</xsd:complexType>
+	</xsd:element>
+			
+
+	<xsd:element name="Premios">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Premio" maxOccurs="unbounded" minOccurs="0"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="Clubes">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="ClubeAtual" maxOccurs="1"/>
+				<xsd:element ref="ClubesAnteriores"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	
+	
+	<xsd:element name="ClubesAnteriores">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="ClubeAnterior" maxOccurs="unbounded" minOccurs="0"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+  
+	
+	<xsd:element name="Jogadores">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Jogador" maxOccurs="unbounded"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>
